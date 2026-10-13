@@ -1,0 +1,8 @@
+Tell me about your roles and responsibilities.
+What challenges have you faced during migration?
+How do you use GitHub Environments in a workflow?
+Explain the CI/CD setup in the banking project and how you would secure the pipeline.
+What is the difference between EKS, AKS, and Kubernetes?
+What is the difference between git pull and git fetch?
+How do you add an approval gate in a CI/CD pipeline?
+How you will secure the sensitive the date?
